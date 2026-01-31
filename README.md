@@ -9,3 +9,4 @@ My personal website created by me to showcase my accompolishments and involvemen
 **Layout:** Structured and content-focused <br>
 
 *Sections/Categories in my website:*
+**Skills:**
