@@ -6,3 +6,4 @@ My personal website created by me to showcase my accompolishments and involvemen
 ## 🌷 About the website
 **Theme:** White + Soft pink (My fav colour ><) <br>
 **UI:** Minimal, responsive and easy to use <br>
+**Layout:** <br>
