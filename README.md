@@ -8,5 +8,5 @@ My personal website created by me to showcase my accompolishments and involvemen
 **UI:** Minimal, responsive and easy to use <br>
 **Layout:** Structured and content-focused <br>
 
-*Sections/Categories in my website:*
+*Sections/Categories in my website:* <br>
 **Skills:**
