@@ -13,3 +13,4 @@ Section | Contents
 | :-- | :--
 | Profile 
 | Skills
+| Courses
