@@ -12,3 +12,4 @@ My personal website created by me to showcase my accompolishments and involvemen
 Section | Contents
 | :-- | :--
 | Profile 
+| Skills
