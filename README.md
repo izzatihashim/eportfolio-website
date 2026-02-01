@@ -10,3 +10,4 @@ My personal website created by me to showcase my accompolishments and involvemen
 
 *Sections/Categories in my website:* <br>
 **Skills:**
+- IDEs
