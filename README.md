@@ -14,3 +14,4 @@ Section | Contents
 | Profile 
 | Skills
 | Courses
+| Co-curricular 
