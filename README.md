@@ -12,6 +12,6 @@ My personal website created by me to showcase my accomplishments and involvement
 Section | Contents
 | :-- | :--
 | Profile | About me, Education, Contact
-| Skills |
+| Skills | Programming languages
 | Courses |
 | Co-curricular | 
