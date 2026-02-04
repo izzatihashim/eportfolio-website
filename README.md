@@ -13,5 +13,5 @@ Section | Contents
 | :-- | :--
 | Profile | About me, Education, Contact
 | Skills | Programming languages
-| Courses | About,
+| Courses | About, Topics,
 | Co-curricular | 
