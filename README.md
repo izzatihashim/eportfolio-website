@@ -14,4 +14,4 @@ Section | Contents
 | Profile | About me, Education, Contact
 | Skills | Programming languages
 | Courses | About, Topics, Assignments
-| Co-curricular | Awards & Participations,
+| Co-curricular | Awards & Participations, Positions
