@@ -16,4 +16,4 @@ Section | Contents
 | Courses | About, Topics, Assignments
 | Co-curricular | Awards & Participations, Positions
 
-## Languages & Tools Utilized
+## 🛠 Languages & Tools Utilized
