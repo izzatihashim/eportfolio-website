@@ -20,3 +20,5 @@ Section | Contents
 - **Languages**: HTML + CSS
 - **IDE**: Visual Studio Code + Live Server (Extension)
 - **Other**: Github Repository 
+
+## Future Improvements
