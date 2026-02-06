@@ -18,5 +18,5 @@ Section | Contents
 
 ## 🛠 Languages & Tools Utilized
 - **Languages**: HTML + CSS
-- IDE: Visual Studio Code + Live Server
+- **IDE**: Visual Studio Code + Live Server
 - Other: 
