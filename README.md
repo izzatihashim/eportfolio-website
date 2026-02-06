@@ -21,4 +21,4 @@ Section | Contents
 - **IDE**: Visual Studio Code + Live Server (Extension)
 - **Other**: Github Repository 
 
-## Future Improvements
+## 🪄 Future Improvements
