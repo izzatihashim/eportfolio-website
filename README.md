@@ -15,3 +15,5 @@ Section | Contents
 | Skills | Programming languages
 | Courses | About, Topics, Assignments
 | Co-curricular | Awards & Participations, Positions
+
+## Languages & Tools Utilized
