@@ -18,3 +18,4 @@ Section | Contents
 
 ## 🛠 Languages & Tools Utilized
 - Languages: HTML + CSS
+- IDE:
