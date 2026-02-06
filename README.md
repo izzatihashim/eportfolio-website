@@ -17,4 +17,4 @@ Section | Contents
 | Co-curricular | Awards & Participations, Positions
 
 ## 🛠 Languages & Tools Utilized
-- Languages: 
+- Languages: HTML + CSS
