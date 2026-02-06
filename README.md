@@ -19,6 +19,8 @@ Section | Contents
 ## 🛠 Languages & Tools Utilized
 - **Languages**: HTML + CSS
 - **IDE**: Visual Studio Code + Live Server (Extension)
-- **Other**: Github Repository 
+- **Other**: Github Repository
+
+## Website Preview
 
 ## 🪄 Future Improvements
