@@ -1,7 +1,7 @@
 # Personal Website: E-Portfolio
 My personal website created by me to showcase my accomplishments and involvements throughout my life journey!
 
-> **Website:** Click [here](https://izzatihashim.github.io/eportfolio-website/) to visit the website 🫧
+> **Website:** https://izzatihashim.github.io/eportfolio-website/ 🫧
 
 ## 🌷 About the website
 - **Theme:** White + Soft pink (My fav colour ><) <br>
