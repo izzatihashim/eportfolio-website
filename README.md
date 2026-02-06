@@ -17,6 +17,6 @@ Section | Contents
 | Co-curricular | Awards & Participations, Positions
 
 ## 🛠 Languages & Tools Utilized
-- Languages: HTML + CSS
+- **Languages**: HTML + CSS
 - IDE: Visual Studio Code + Live Server
 - Other: 
