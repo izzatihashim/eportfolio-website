@@ -22,5 +22,6 @@ Section | Contents
 - **Other**: Github Repository
 
 ## 🌸 Website Preview
+<img width="1727" height="789" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/4f884e49-36e1-4f1e-8d44-efa8ceca36da" />
 
 ## 🪄 Future Improvements
