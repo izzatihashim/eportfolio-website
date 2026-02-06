@@ -19,4 +19,4 @@ Section | Contents
 ## 🛠 Languages & Tools Utilized
 - **Languages**: HTML + CSS
 - **IDE**: Visual Studio Code + Live Server
-- **Other**: 
+- **Other**: Github Repository 
