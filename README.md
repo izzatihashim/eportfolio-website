@@ -13,7 +13,7 @@ Section | Contents
 | :-- | :--
 | Profile | About me, Education, Contact
 | Skills | Programming languages, IDEs, Tools
-| Courses | About, Topics, Assignments
+| Courses | Overview, Topics, Assignments, Reflections
 | Co-curricular | Awards & Participations, Positions
 
 ## 🛠 Languages & Tools Utilized
