@@ -26,4 +26,4 @@ Section | Contents
 
 ## 🪄 Future Improvements
 - Improve layout to fit each semester
-- Add more colours and animation
+- Add more vibrant colours and engrossing animation
