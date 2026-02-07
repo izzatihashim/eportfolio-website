@@ -25,3 +25,4 @@ Section | Contents
 <img width="1727" height="781" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/8584d140-3df8-4d52-a11a-06150d11bf35" />
 
 ## 🪄 Future Improvements
+- Improve layout to fit each semester
