@@ -11,7 +11,7 @@ My personal website created by me to showcase my accomplishments and involvement
 *Sections/Categories in my website:* <br>
 Section | Contents
 | :-- | :--
-| Profile | About me, Education, Contact
+| Profile | About me, Education, Contacts
 | Skills | Programming languages, IDEs, Tools
 | Courses | Overview, Topics, Assignments, Reflections
 | Co-curricular | Awards & Participations, Positions
