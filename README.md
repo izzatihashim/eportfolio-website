@@ -19,7 +19,7 @@ Section | Contents
 ## 🛠 Languages & Tools Utilized
 - **Languages**: HTML + CSS
 - **IDE**: Visual Studio Code + Live Server (Extension)
-- **Other**: Github Repository
+- **Other**: Github Repository (Deployment)
 
 ## 🌟 Website Preview
 <img width="1727" height="781" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/8584d140-3df8-4d52-a11a-06150d11bf35" />
